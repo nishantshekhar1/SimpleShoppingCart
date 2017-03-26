@@ -5,7 +5,7 @@ A simple app where seller can add items and a buyer can see them using JAVA , SQ
 <image src="https://cloud.githubusercontent.com/assets/12582488/24328952/86eab4ea-11bd-11e7-9690-a3083416d2cd.PNG">
 
 <p> This is screen for Seller </p>
-<image src="https://cloud.githubusercontent.com/assets/12582488/24328935/e4f11648-11bc-11e7-9013-00f3c1438df1.PNG">
+<image src="https://cloud.githubusercontent.com/assets/12582488/24328953/86f9741c-11bd-11e7-867c-0dde26ab2300.PNG">
 
 
 <p> This is the screen for  buyer. He/She can see all items added by the seller</p>
